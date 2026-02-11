@@ -8,16 +8,17 @@
 
 - 🌱 I'm currently learning **I specialize in cleaning, analyzing, and visualizing large datasets, building interactive dashboards, and deriving actionable insights to support business decisions.**
 
-## 👯 Collaboration Goals
-
+- 👯 Collaboration Goals
 I'm looking to collaborate on:
-
 - **Analytics projects**  
 - **Dashboard development**  
 - **Python-driven automation projects** that solve real-world problems
 
-
-- 🤝 I'm looking for help with **building scalable data analysis pipelines and interactive dashboards.**
+- 🤝 Guidance & Growth
+  I'm looking for help with:
+- **Scaling data pipelines**
+- **Implementing best practices in analytics**
+- **Creating impactful data storytelling dashboards**
 
 - 💬 Ask me about **building dashboards, analyzing datasets, and automating workflows.**
 

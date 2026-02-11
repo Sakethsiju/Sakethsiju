@@ -63,7 +63,7 @@ I'm looking to collaborate on:
 
 *"Data doesn't speak for itself—it needs a storyteller. I transform numbers into narratives that drive decisions."*
 
-- **Approach:**
+**Approach:**
 
   Understand the business context 
   Clean and prepare data meticulously  

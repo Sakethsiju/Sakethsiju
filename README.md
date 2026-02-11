@@ -49,6 +49,8 @@ I'm looking to collaborate on:
 
 - 📄 Resume: **[https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)**
 
+- 📫 Reach me: [Email](mailto:sakethsiju63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/enugu-saketh-reddy-21k91a6631)
+
   
 
 ## 🛠️ Technical Stack

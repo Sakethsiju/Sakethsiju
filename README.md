@@ -19,7 +19,9 @@ I'm looking to collaborate on:
   I'm looking for help with:
   
   **Scaling data pipelines**
+  
   **Implementing best practices in analytics**
+  
   **Creating impactful data storytelling dashboards**
 
 - 💬 Ask me about **building dashboards, analyzing datasets, and automating workflows.**

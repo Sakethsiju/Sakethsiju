@@ -49,6 +49,8 @@ I'm looking to collaborate on:
 
 - 📄 Resume: **[https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)**
 
+  
+
 ## 🛠️ Technical Stack
 
 ### Programming & Database
@@ -71,11 +73,13 @@ I'm looking to collaborate on:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/sakethsiju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakethsiju" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/enugu-saketh-reddy-21k91a6631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/enugu-saketh-reddy-21k91a6631" height="30" width="40" /></a>
 </p>
+
 
 
 ## 💡 How I Work with Data
@@ -89,6 +93,7 @@ I'm looking to collaborate on:
   Analyze with appropriate statistical methods  
   Visualize for clarity and impact 
   Recommend actionable next steps
+  
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakethsiju&" alt="sakethsiju" /></p>

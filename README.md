@@ -3,9 +3,9 @@
 ### A passionate Data Analyst from India
 
 
-- 🔭 I'm currently working on **I work on data analysis and visualization projects using Python, SQL, Excel, and Power BI, including real-world datasets like Amazon e-commerce and IPL cricket data.**
+- 🔭 **I work on data analysis and visualization projects using Python, SQL, Excel, and Power BI, including real-world datasets like Amazon e-commerce and IPL cricket data.**
 
-- 🌱 I'm currently learning **I specialize in cleaning, analyzing, and visualizing large datasets, building interactive dashboards, and deriving actionable insights to support business decisions.**
+- 🌱 **I specialize in cleaning, analyzing, and visualizing large datasets, building interactive dashboards, and deriving actionable insights to support business decisions.**
 
 - 👯 Collaboration Goals
 I'm looking to collaborate on:

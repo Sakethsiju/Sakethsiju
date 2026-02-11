@@ -79,10 +79,14 @@ I am seeking a **breakthrough opportunity** to start my career as a Data Analyst
 - **LinkedIn:** [Enugu Saketh Reddy](https://www.linkedin.com/in/enugu-saketh-reddy-21k91a6631)  
 - **Resume:** [View Here](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)
 
-  
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakethsiju&" alt="sakethsiju" /></p>
+
+---
+
+⭐ **Check out my repositories for real analytics projects:** [My GitHub Repos](https://github.com/sakethsiju?tab=repositories)  
+🔍 **Open to collaborations, internships, and data analyst roles!**
+
 
 
 

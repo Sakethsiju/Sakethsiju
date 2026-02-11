@@ -4,11 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakethsiju" alt="sakethsiju" /></a> </p>
 
-- 🔭 I'm currently working on **building data-driven projects using Python, SQL, and Power BI.**
+- 🔭 I'm currently working on **I work on data analysis and visualization projects using Python, SQL, Excel, and Power BI, including real-world datasets like Amazon e-commerce and IPL cricket data.**
 
-- 🌱 I'm currently learning **advanced Python, SQL, and data visualization to build impactful projects.**
+- 🌱 I'm currently learning **I specialize in cleaning, analyzing, and visualizing large datasets, building interactive dashboards, and deriving actionable insights to support business decisions.**
 
-- 👯 I'm looking to collaborate on **data analysis, visualization, and Python-based projects.**
+- 👯 Collaboration Goals
+- I'm looking to collaborate on
+**Analytics projects**
+
+**Dashboard development**
+
+**Python-driven automation projects that solve real-world problems**
 
 - 🤝 I'm looking for help with **building scalable data analysis pipelines and interactive dashboards.**
 
@@ -16,7 +22,7 @@
 
 - 📫 How to reach me **sakethsiju63@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)**
+- 📄 Resume **[https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

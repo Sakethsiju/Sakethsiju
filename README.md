@@ -2,7 +2,6 @@
 
 ### A passionate Data Analyst from India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakethsiju" alt="sakethsiju" /></a> </p>
 
 - 🔭 I'm currently working on **I work on data analysis and visualization projects using Python, SQL, Excel, and Power BI, including real-world datasets like Amazon e-commerce and IPL cricket data.**
 

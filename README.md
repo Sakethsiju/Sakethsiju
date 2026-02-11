@@ -11,8 +11,10 @@
 - 👯 Collaboration Goals
 I'm looking to collaborate on:
 
-  **Analytics projects**  
-  **Dashboard development**  
+  **Analytics projects**
+  
+  **Dashboard development**
+   
   **Python-driven automation projects** that solve real-world problems
 
 - 🤝 Guidance & Growth

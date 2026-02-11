@@ -25,11 +25,22 @@ I'm looking to collaborate on:
   
   **Creating impactful data storytelling dashboards**
 
-- 💬 Ask me about **building dashboards, analyzing datasets, and automating workflows.**
+- 💬 Ask Me About
 
-- 📫 How to reach me **sakethsiju63@gmail.com**
+  **SQL queries and optimization**
+  
+  **Python data analysis** (Pandas, NumPy, Matplotlib, Seaborn)
+  
+  **Dashboard design** in Power BI / Excel
+  
+  **Deriving insights** from complex datasets
 
-- 📄 Resume **[https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)**
+
+
+
+- 📫 How to reach me : **sakethsiju63@gmail.com**
+
+- 📄 Resume: **[https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

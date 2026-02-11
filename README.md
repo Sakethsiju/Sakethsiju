@@ -35,8 +35,14 @@ I'm looking to collaborate on:
   
   **Deriving insights** from complex datasets
 
+- 🚀 Career Objective 
+I'm seeking a breakthrough opportunity to start my career as a Data Analyst, where I can:
 
-
+  **Apply my skills** in real-world scenarios
+    
+  **Learn from challenges** and grow professionally
+  
+  **Make a measurable impact** through data-driven decisions
 
 - 📫 How to reach me : **sakethsiju63@gmail.com**
 

@@ -7,42 +7,43 @@
 
 - 🌱 **I specialize in cleaning, analyzing, and visualizing large datasets, building interactive dashboards, and deriving actionable insights to support business decisions.**
 
-- 👯 Collaboration Goals
+- 👯 **Collaboration Goals**
 I'm looking to collaborate on:
 
-  **Analytics projects**
+  Analytics projects
   
-  **Dashboard development**
+  Dashboard development
    
-  **Python-driven automation projects** that solve real-world problems
+  Python-driven automation projects that solve real-world problems
 
-- 🤝 Guidance & Growth
+- 🤝**Guidance & Growth**
   I'm looking for help with:
   
-  **Scaling data pipelines**
+  Scaling data pipelines
   
-  **Implementing best practices in analytics**
+  Implementing best practices in analytics
   
-  **Creating impactful data storytelling dashboards**
+  Creating impactful data storytelling dashboards
 
-- 💬 Ask Me About
+- 💬**Ask Me About**
 
-  **SQL queries and optimization**
+  SQL queries and optimization
   
-  **Python data analysis** (Pandas, NumPy, Matplotlib, Seaborn)
+  Python data analysis (Pandas, NumPy, Matplotlib, Seaborn)
   
-  **Dashboard design** in Power BI / Excel
+  Dashboard design in Power BI / Excel
   
-  **Deriving insights** from complex datasets
+  Deriving insights from complex datasets
 
-- 🚀 Career Objective 
-I'm seeking a breakthrough opportunity to start my career as a Data Analyst, where I can:
+- 🚀**Career Objective**
 
-  **Apply my skills** in real-world scenarios
+  I'm seeking a breakthrough opportunity to start my career as a Data Analyst, where I can:
+
+  Apply my skills in real-world scenarios
     
-  **Learn from challenges** and grow professionally
+  Learn from challenges and grow professionally
   
-  **Make a measurable impact** through data-driven decisions
+  Make a measurable impact through data-driven decisions
 
 - 📫 How to reach me : **sakethsiju63@gmail.com**
 

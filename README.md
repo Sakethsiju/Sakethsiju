@@ -62,7 +62,7 @@ I turn complex data into actionable business decisions. With hands-on experience
 
 ---
 
-*Open to Data Analyst roles in Hyderabad or remote. Let's build something meaningful with data!*
+*Open to Data Analyst roles. Let's build something meaningful with data!*
 
 
 

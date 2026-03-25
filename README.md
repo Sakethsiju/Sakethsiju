@@ -58,7 +58,7 @@ I turn complex data into actionable business decisions. With hands-on experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enugu-saketh-reddy-21k91a6631)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethsiju63@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-00A550?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FkzT69cW_jN2McgcEueSsEGUOKtmOhyb/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-00A550?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ifc8OJwYd416DPGfVKoY9pVAaOouVSN8/view?usp=sharing)
 
 ---
 
